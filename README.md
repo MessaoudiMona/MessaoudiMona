@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS
 - 🌱 I’m currently learning Cs50
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me Instgram
+- 📫 How to reach me <Link to="Instagram">Instagram</Link>
 
 <!---
 MessaoudiMona/MessaoudiMona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
